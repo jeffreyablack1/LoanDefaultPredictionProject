@@ -11,12 +11,12 @@ Models Folder: Houses the .pkl files for the top three models from the experimen
 Notebooks Folder:
 Trustage-DataScientistSkillDisplay.ipynb: The primary notebook for the experiment, including preprocessing, exploratory data analysis, modeling, and findings.
 requirements.txt: Lists the packages and their versions used in this project.
-Environment Folder (TrustageVEnv): Contains the virtual environment setup for this project, ensuring reproducibility and consistent execution.
+Environment Folder (NewTrustageVEnv): Contains the virtual environment setup for this project, ensuring reproducibility and consistent execution.
 Getting Started
 
 Set Up the Environment:
 Ensure you have Python installed on your system.
-Create a virtual environment, named TrustageVEnv, and activate it.
+Create a virtual environment, named NewTrustageVEnv, and activate it.
 Install the required packages by running pip install -r notebooks/requirements.txt in your command line or terminal.
 Run the Notebook:
 Navigate to the notebooks folder.
