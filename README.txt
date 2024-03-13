@@ -9,7 +9,7 @@ Project Structure
 Data Folder: Contains the credit_risk_dataset.csv data used for this project.
 Models Folder: Houses the .pkl files for the top three models from the experiment.
 Notebooks Folder:
-Trustage-DataScientistSkillDisplay.ipynb: The primary notebook for the experiment, including preprocessing, exploratory data analysis, modeling, and findings.
+DataScientistSkillDisplay.ipynb: The primary notebook for the experiment, including preprocessing, exploratory data analysis, modeling, and findings.
 requirements.txt: Lists the packages and their versions used in this project.
 Environment Folder (NewTrustageVEnv): Contains the virtual environment setup for this project, ensuring reproducibility and consistent execution.
 Getting Started
