@@ -1,4 +1,4 @@
-Credit Risk Analysis for Trustage (Showcasing the skillset of Jeffrey Black for ML development)
+Credit Risk Analysis (Showcasing the skillset of Jeffrey Black for Classification ML development)
 
 Overview
 
