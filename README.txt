@@ -16,11 +16,11 @@ Getting Started
 
 Set Up the Environment:
 Ensure you have Python installed on your system.
-Create a virtual environment, named NewTrustageVEnv, and activate it.
+Create a virtual environment and activate it.
 Install the required packages by running pip install -r notebooks/requirements.txt in your command line or terminal.
 Run the Notebook:
 Navigate to the notebooks folder.
-Launch Jupyter Notebook or Jupyter Lab and open Trustage-DataScientistSkillDisplay.ipynb.
+Launch Jupyter Notebook or Jupyter Lab and open DataScientistSkillDisplay.ipynb.
 Run the cells sequentially to understand the preprocessing, analysis, and modeling steps.
 Explore the Models:
 The top three models from the experiment are stored in the models folder.
